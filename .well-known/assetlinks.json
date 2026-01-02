@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.botza",
+      "sha256_cert_fingerprints": [
+        "31:17:EC:96:FA:8B:A8:59:A1:D1:2C:48:73:E5:57:D7:47:93:E9:D3:9A:89:3F:40:7B:B0:1A:07:11:C8:C2:72"
+      ]
+    }
+  }
+]
